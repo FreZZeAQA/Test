@@ -11,7 +11,7 @@
 //            System.out.print("\n" + warrior1.getName() + " damaged " + warrior2.getName() + "\n" + warrior2.getName() + " hp:");
 //            warrior1.attack(warrior2);
 //            System.out.print("\n" + warrior2.getName() + " damaged " + warrior1.getName() + "\n" + warrior1.getName() + " hp:");
-//            warrior2.attack(warrior1);
+//            
 //        } while (warrior1.getHp() > 0 && warrior2.getHp() > 0);
 //
 //
